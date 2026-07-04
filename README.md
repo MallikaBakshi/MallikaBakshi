@@ -1,6 +1,6 @@
 # Hi, I'm Mallika 👋
 
-**Head of AI Services @ [TrueHorizon.AI](https://truehorizon.ai)** — I set AI strategy for the business *and* build/ship the products that deliver it.
+**Head of AI Services & Forward Deployed Engineer @ [TrueHorizon.AI](https://truehorizon.ai)** — I set AI strategy for the business *and* embed with customers to build and ship the products that deliver it.
 
 A rare blend: **5+ years in product management**, a **Computer Science** degree, and an **MBA in Marketing & Operations** — so I move fluently from a customer's business problem, to the AI solution design, to a deployed, production-hardened product. Forward-deployed by instinct: I don't hand off at the prototype.
 
